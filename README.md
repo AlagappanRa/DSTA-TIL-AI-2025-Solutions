@@ -13,7 +13,7 @@ This repository contains the source code and optimization strategies used to ach
 
 ---
 
-## 👁️ Computer Vision: DINO-DETR Optimization
+## Computer Vision: DINO-DETR Optimization
 
 We tackled the 18-class object detection task (including small targets like drones and missiles) by deploying **DINO (DETR with Improved DeNoising Anchor Boxes)**.
 
